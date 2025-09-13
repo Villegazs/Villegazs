@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💫 About Me:
+I am a Digital Entertainment Design Engineer passionate about bridging the gap between intuitive user experiences and robust back-end architecture. My focus is on creating polished, player-first games by combining thoughtful UX design with clean, scalable C# code in Unity. I thrive on solving complex problems, whether it's designing a seamless UI flow or re-architecting a codebase for multiplayer.<br><br>🔭 I’m currently working on: Polishing my game development portfolio with in-depth case studies and developing personal projects focused on UI systems and multiplayer networking.<br><br>🌱 I’m currently learning: Advanced C# design patterns for scalable game architecture and best practices for AAA game development pipelines.<br><br>👯 I’m looking to collaborate on: Game jams or indie projects where I can contribute to creating an exceptional user experience.<br><br>💬 Ask me about: UI/UX design & implementation in Unity, refactoring code for multiplayer, bridging design (Figma) with engineering (Unity), or anything related to VALORANT's game design!<br><br>⚡ Fun fact: When I'm not coding, you'll likely find me climbing the ranks in VALORANT or analyzing gameplay from a competitive player's perspective. It's my favorite way to study game design
 
-<!--
-**Villegazs/Villegazs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alejandro-villegas-morales-b64694241/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avmorales2210@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Villegazs&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Villegazs&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Villegazs&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Villegazs&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
